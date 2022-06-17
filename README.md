@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estou Estudando Elixir!
 
-<div>
+<div align="center">
   <a href="https://beacons.ai/Dimitris.Calixto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idimitrisc47&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idimitrisc47&layout=compact&langs_count=16&theme=dark"/>
