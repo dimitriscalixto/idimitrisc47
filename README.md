@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Dimitris 
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estou Estudando Elixir!
+
 
 <div align="center">
   <a href="https://beacons.ai/Dimitris.Calixto">
