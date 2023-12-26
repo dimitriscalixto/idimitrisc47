@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🌱 I’m currently learning Python, Django<br><br>
+🌱 I’m currently learning Java, Javascript <br><br>
 
 
 ## 🌐 Socials:
